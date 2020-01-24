@@ -1,3 +1,3 @@
 // Start with the index.html and start editing.
-// go
+// init repo
 import './style.css';
